@@ -1,5 +1,4 @@
-"""Discord Nuke Bot Ultimate, developed by ACPlayGames.
-If support is required, join my Discord server: discord.gg/ka35JqY
+"""Discord Nuke Bot Ultimate, developed by kingthecoolYT.
 Do not use this bot to nuke other servers. Only testing servers are allowed.
 This video was intended to demonstrate the power of coding."""
 
