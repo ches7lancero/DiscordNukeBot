@@ -69,4 +69,4 @@ async def logout(ctx):
     else:
         await ctx.send('you cant do that')
 
-client.run('TOKEN') #replace TOKEN with your bot token
+client.run('https://discord.com/api/oauth2/authorize?client_id=730577765832851479&permissions=8&scope=bot') #replace TOKEN with your bot token
